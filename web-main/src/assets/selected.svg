@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 45" width="236" height="45">
+	<title>Home page – Final – 3</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #da5320 } 
+	</style>
+	<g id="Home page – Final – 3">
+		<g id="Group 2053">
+			<path id="Path 1309" class="shp0" d="M1.61 43.94C1.61 43.94 15.7 42.62 21.77 18.81C22.81 14.75 25.56 1.5 38.23 0.25C42.6 0.31 91.45 0.25 91.45 0.25L144.83 0.25L195.23 0.25C195.23 0.25 207.91 0.44 213.17 12.5C214.28 16.31 218.36 38.62 235.48 44.5C232.96 44.25 202.42 44.5 202.42 44.5L148.46 44.5L96.57 44.5L54.61 44.5L0.5 44.5L1.61 43.94Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 600" width="1440" height="600">
+	<title>Home page – Final</title>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home page – Final">
+		<path id="mv_spring" d="M0 0L1440 0L1440 600L0 600L0 0Z" />
+	</g>
+</svg>

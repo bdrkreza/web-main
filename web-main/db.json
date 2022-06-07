@@ -1,0 +1,433 @@
+{
+  "featuredNewCars": [
+    {
+      "id": 1,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 2,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 3,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 4,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 4,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 3,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 5,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    }
+  ],
+  "reconditionedCars": [
+    {
+      "id": 1,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 2,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 3,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 4,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 4,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 3,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 5,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    }
+  ],
+  "usedCars": [
+    {
+      "id": 1,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 2,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 3,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 4,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 4,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 3,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    },
+    {
+      "id": 5,
+      "cartype": "Hatchbacks",
+      "image": "/assets/featuredcar/featured-car1.png",
+      "carname": "Vauxhall",
+      "carmodel": "Honda Vesel Hybrid",
+      "cardesc": "A stylish small hatchback with power inside",
+      "carstar": 5,
+      "carrating": 8,
+      "currencytype": "MRP",
+      "carprice": "$ 32 Lakh* - $ 40 Lakh*",
+      "carsaving": "Avg. Saving $ 32 - 34Lakh*",
+      "carreview": "read review",
+      "milage": "11.0",
+      "fuel": "fuel",
+      "date": "date",
+      "used": "used",
+      "author": "Mithun Sarkar",
+      "location": "Dhanmondi, Dhaka"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "fdesc": [
+        "I think the name Bhalogari itself bears the significance of the",
+        " quality of the cars it has. Amazing and Awesome collection of cars",
+        "with an exceptionally decorated showroom.."
+      ],
+      "image": "/assets/featuredcar/featured-car1.png",
+      "username": "Md Rayhan Hasan",
+      "usertype": "Customer"
+    },
+    {
+      "id": 2,
+      "fdesc": [
+        "I think the name Bhalogari itself bears the significance of the",
+        " quality of the cars it has. Amazing and Awesome collection of cars",
+        "with an exceptionally decorated showroom.."
+      ],
+      "image": "/assets/featuredcar/featured-car1.png",
+      "username": "Md Rayhan Hasan",
+      "usertype": "Customer"
+    },
+    {
+      "id": 3,
+      "fdesc": [
+        "I think the name Bhalogari itself bears the significance of the",
+        " quality of the cars it has. Amazing and Awesome collection of cars",
+        "with an exceptionally decorated showroom.."
+      ],
+      "image": "/assets/featuredcar/featured-car1.png",
+      "username": "Md Rayhan Hasan",
+      "usertype": "Customer"
+    }
+  ],
+  "carreviews": [
+    {
+      "id": 1,
+      "rtitle": [
+        "Watch videos from the number one car review channel in",
+        "Bangladesh"
+      ],
+      "rlist": [
+        {
+          "id": 1,
+          "title": "Videos for real car buyers like you"
+        },
+        {
+          "id": 2,
+          "title": "Videos for real car buyers like you"
+        },
+        {
+          "id": 3,
+          "title": "Videos for real car buyers like you"
+        }
+      ]
+    }
+  ],
+  "bhaloFinances": [
+    {
+      "id": 1,
+      "image": "./public/assets/images/Loan.png",
+      "title": "Car Loan",
+      "description": "Best loan package at the most competitive prices"
+    },
+    {
+      "id": 2,
+      "image": "./src/assets/images/Insurance.jpg",
+      "title": "Car Insurance",
+      "description": "Drive your car with the peace of your mind"
+    },
+    {
+      "id": 3,
+      "image": "./src/assets/images/Lease.jpg",
+      "title": "Car Lease",
+      "description": "Embrace car ownership with minimum hassle"
+    }
+  ],
+  "homeBanner": [
+    {
+      "id": 1,
+      "title": "Bhalogari one 1",
+      "description": "No.1  Automobile Portal in Bangladesh",
+      "image": "/assets/banner/banner1.jpg",
+      "button": "See more",
+      "buttonLink": "https://bhalogari.com"
+    },
+    {
+      "id": 2,
+      "title": "Bhalogari two",
+      "description": "No.1  Automobile Portal in Bangladesh",
+      "image": "/assets/banner/banner2.jpg",
+      "button": "See more",
+      "buttonLink": "https://bhalogari.com"
+    },
+    {
+      "id": 3,
+      "title": "Bhalogari three",
+      "description": "No.1  Automobile Portal in Bangladesh",
+      "image": "/assets/banner/banner3.jpg",
+      "button": "See more",
+      "buttonLink": "https://bhalogari.com"
+    }
+  ],
+  "carousal": [
+    {
+      "id": 1,
+      "image": "../../assets/carDetails/car1.png"
+    },
+    {
+      "id": 2,
+      "image": "../../assets/carDetails/car1.png"
+    },
+    {
+      "id": 3,
+      "image": "../../assets/carDetails/car1.png"
+    }
+  ],
+  "terms": [
+    {
+      "header":{
+        "title": "TERMS & conditions"
+      }
+    }
+  ]
+}

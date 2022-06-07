@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 76" width="76" height="76">
+	<title>Home page – Final – 3</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #24d1f0 } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="Home page – Final – 3">
+		<path id="Ellipse 17" class="shp0" d="M38 76C16.99 76 0 59.01 0 38C0 16.99 16.99 0 38 0C59.01 0 76 16.99 76 38C76 59.01 59.01 76 38 76Z" />
+		<path id="Path 697" class="shp1" d="M28 25L28 50.45L48 37.73L28 25Z" />
+	</g>
+</svg>

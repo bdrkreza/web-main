@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="500" height="400">
+	<title>New Project</title>
+	<defs>
+		<image  width="500" height="400" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAGQAQMAAABifQCFAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAADBJREFUeJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA1wBkAAABHK/TagAAAABJRU5ErkJggg=="/>
+		<image width="555" height="510" id="img2" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNi43MzEiIGhlaWdodD0iMzMuNTM3IiB2aWV3Qm94PSIwIDAgMzYuNzMxIDMzLjUzNyI+DQogIDxwYXRoIGlkPSJpY19hZGRfYV9waG90b18yNHB4IiBkPSJNNC43OTEsNS43OTFWMUg3Ljk4NVY1Ljc5MWg0Ljc5MVY4Ljk4NUg3Ljk4NXY0Ljc5MUg0Ljc5MVY4Ljk4NUgwVjUuNzkxWm00Ljc5MSw5LjU4MlYxMC41ODJoNC43OTFWNS43OTFIMjUuNTUybDIuOTIyLDMuMTk0aDUuMDYyYTMuMiwzLjIsMCwwLDEsMy4xOTQsMy4xOTRWMzEuMzQzYTMuMiwzLjIsMCwwLDEtMy4xOTQsMy4xOTRINy45ODVhMy4yLDMuMiwwLDAsMS0zLjE5NC0zLjE5NFYxNS4zNzNaTTIwLjc2MSwyOS43NDZhNy45ODUsNy45ODUsMCwxLDAtNy45ODUtNy45ODVBNy45ODgsNy45ODgsMCwwLDAsMjAuNzYxLDI5Ljc0NlptLTUuMTEtNy45ODVhNS4xMSw1LjExLDAsMSwwLDUuMTEtNS4xMSw1LjEsNS4xLDAsMCwwLTUuMTEsNS4xMVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTEpIiBmaWxsPSIjYTZhNmE2Ii8+DQo8L3N2Zz4NCg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #eeeeee } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<path id="Shape 1" class="shp0" d="M0 0L500 0L500 400L0 400L0 0Z" />
+	<use id="camera" href="#img2" transform="matrix(0.285,0,0,0.285,171,128)"/>
+</svg>

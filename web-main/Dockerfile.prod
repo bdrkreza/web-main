@@ -1,0 +1,14 @@
+# Step 1: Build Stage
+FROM node:16-alpine3.11 AS build-stage
+LABEL maintainer="Bhalogari LTD"
+WORKDIR /usr/app
+COPY package*.json ./
+RUN npm install 
+COPY . .
+RUN npm run build
+
+# Step 2: Production Stage
+FROM nginx:1.21-alpine AS production-stage
+COPY --from=build-stage /usr/app/build /usr/share/nginx/html
+EXPOSE 80
+ENTRYPOINT [ "nginx", "-g", "daemon off;" ]
